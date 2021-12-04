@@ -4,7 +4,7 @@
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp HD 2
-https://cdn.esporteone.com/SBTHD/video.m3u8
+https://89.248.168.167/SBTHD/video.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp SD 3
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_1.m3u8
@@ -15,38 +15,38 @@ https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_2.m
 #EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP SD 1
 https://51.79.86.161/hls/s:157.90.249.8/globosphd_3a69aa1b_c917ba3e1ca7826ca9e12674a823096341b106e1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sp SD 2
+#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP SD 2
 https://51.79.86.161/hls/s:168.119.51.143/globosp_cfe21c68_ff4489bfa1b9637ac83feda3180bbd6b91f4347f/playlist.m3u8
 
 #EXTINF:-1,SporTV HD 1
-https://cdn.esporteone.com/SPORTVSD/video.m3u8
+https://89.248.168.167/SPORTVSD/video.m3u8
 
 #EXTINF:-1,SporTV HD 2
-https://cdn.esporteone.com/SPORTVHD/video.m3u8
+https://89.248.168.167/SPORTVHD/video.m3u8
 
 #EXTINF:-1,Combate HD 1
-https://cdn.esporteone.com/COMBATESD/video.m3u8
+https://89.248.168.167/COMBATESD/video.m3u8
 
 #EXTINF:-1,Combate HD 2
-https://cdn.esporteone.com/COMBATEHD/video.m3u8
+https://89.248.168.167/COMBATEHD/video.m3u8
 
 #EXTINF:-1,Telecine FUN HD 1
-https://cdn.esporteone.com/TELECINEFUNSD/video.m3u8
+https://89.248.168.167/TELECINEFUNSD/video.m3u8
 
 #EXTINF:-1,Telecina FUN HD 2
-https://cdn.esporteone.com/TELECINEFUNHD/video.m3u8
+https://89.248.168.167/TELECINEFUNHD/video.m3u8
 
 #EXTINF:-1,NatGeo HD 1
-https://cdn.esporteone.com/NATGEOSD/video.m3u8
+https://89.248.168.167/NATGEOSD/video.m3u8
 
 #EXTINF:-1,NatGeo HD 2
-https://cdn.esporteone.com/NATGEOHD/video.m3u8
+https://89.248.168.167/NATGEOHD/video.m3u8
 
 #EXTINF:-1,RedeTV HD 1
-https://cdn.esporteone.com/REDETVSD/video.m3u8
+https://89.248.168.167/REDETVSD/video.m3u8
 
 #EXTINF:-1,RedeTV HD 2
-https://cdn.esporteone.com/REDETVHD/video.m3u8
+https://89.248.168.167/REDETVHD/video.m3u8
 
 #EXTINF:-1,Discovery World HD 1
 https://51.79.86.161/hls/s:49.12.213.134/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/playlist.m3u8
@@ -55,10 +55,10 @@ https://51.79.86.161/hls/s:49.12.213.134/discoveryworld_68b79337_7c05ede8acae27c
 
 
 #EXTINF:-1,Animal Planet HD 1
-https://cdn.esporteone.com/ANIMALPLANETSD/video.m3u8
+https://89.248.168.167/ANIMALPLANETSD/video.m3u8
 
 #EXTINF:-1,Animal Planet HD 2
-https://cdn.esporteone.com/ANIMALPLANETHD/video.m3u8
+https://89.248.168.167/ANIMALPLANETHD/video.m3u8
 
 #EXTINF:-1,RecordTV HD 1
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?sd=10&rebase=on
