@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", Sbt SP HD 1
-
+https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp HD 2
-https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
+https://cdn.esporteone.com/SBTHD/video.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp SD 3
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_1.m3u8
@@ -52,7 +52,7 @@ https://cdn.esporteone.com/REDETVHD/video.m3u8?md5=KRj79IEqDltFwCxqFWJ55g&expire
 https://51.79.86.161/hls/s:49.12.213.134/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/playlist.m3u8
 
 #EXTINF:-1,Discovery World HD 2
-https://edge-aws.aovivotv.xyz/hls/s:157.90.249.8/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI0LjE0MiI7aToxO3M6MTMxOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjU1IFNhZmFyaS81MzcuMzYgRWRnLzk2LjAuMTA1NC40MyI7aToyO2k6MTYzODY0Nzk4ODt9
+
 
 #EXTINF:-1,Animal Planet HD 1
 https://cdn.esporteone.com/ANIMALPLANETSD/video.m3u8?md5=LpiJsyX0taEP5m_ZMsz5nw&expires=1638651661
