@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", Sbt SP HD 1
-https://rr2---sn-ovguxcg-cxae.googlevideo.com/videoplayback?expire=1638667510&ei=lsCrYcG8Do-O4dUPociLsAg&ip=177.104.241.134&id=ABVQXgr2LW4.3&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-ovguxcg-cxae%2Csn-uphcg51pa-bg0s&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&gcr=br&initcwndbps=580000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=ERlvV3QxY9jwlQhOROHnGSkG&gir=yes&mt=1638645636&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=fzZtcTaHzdUd-Q&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAJTGLbGoJgsKGX_a_CSYAFsE8GGN3cb9flqrxJlE4ZeCAiAmrqPNkdDbQ1s_RY-G3Chw7lQRuSqU6jeGK1hY_ewaXA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJHAR-qAw8G9Uc5Nh4zmBkK8sY_4yc_RdObAd6D_508EAiEA--AUoRAr42uyHG8BZ153DwlQ84QxbgO5Y5jAMruH_ps%3D&alr=yes&cpn=KEs1ORLUWY1TlJfc&cver=1.202...
+
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp HD 2
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
@@ -49,7 +49,7 @@ https://cdn.esporteone.com/REDETVSD/video.m3u8?md5=jBU2DvmpfggQEPq9JFxIGA&expire
 https://cdn.esporteone.com/REDETVHD/video.m3u8?md5=KRj79IEqDltFwCxqFWJ55g&expires=1638651280
 
 #EXTINF:-1,Discovery World HD 1
-https://edge-aws.aovivotv.xyz/hls/s:157.90.249.8/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/1638647956000.ts
+https://51.79.86.161/hls/s:49.12.213.134/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/playlist.m3u8
 
 #EXTINF:-1,Discovery World HD 2
 https://edge-aws.aovivotv.xyz/hls/s:157.90.249.8/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI0LjE0MiI7aToxO3M6MTMxOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjU1IFNhZmFyaS81MzcuMzYgRWRnLzk2LjAuMTA1NC40MyI7aToyO2k6MTYzODY0Nzk4ODt9
