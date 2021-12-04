@@ -15,8 +15,8 @@ https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_2.m
 #EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP SD 1
 https://51.79.86.161/hls/s:157.90.249.8/globosphd_3a69aa1b_c917ba3e1ca7826ca9e12674a823096341b106e1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sp HD 2
-https://cdn.esporteone.com/GLOBOSPHD/video.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sp SD 2
+https://51.79.86.161/hls/s:168.119.51.143/globosp_cfe21c68_ff4489bfa1b9637ac83feda3180bbd6b91f4347f/playlist.m3u8
 
 #EXTINF:-1,SporTV HD 1
 https://cdn.esporteone.com/SPORTVSD/video.m3u8
@@ -72,7 +72,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 #EXTINF:-1,RecordTV SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Globo RJ HD 1
+#EXTINF:-1,Globo RJ SD 1
 
 
 #EXTINF:-1,Globo RJ SD 2
