@@ -96,3 +96,5 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 #EXTINF:-1 group-title="ABERTAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV | SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",StarChannel | SD 1
+https://edge-aws.aovivotv.xyz/hls/s:157.90.249.8/starchannel_5a5b0f9b_b00f62bad3232b061c9d5d23edcabaae61da56e7/1638678559000.ts
