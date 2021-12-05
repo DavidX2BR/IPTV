@@ -18,8 +18,8 @@ https://51.79.86.161/hls/s:157.90.249.8/globosphd_3a69aa1b_c917ba3e1ca7826ca9e12
 #EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP SD 2
 https://51.79.86.161/hls/s:168.119.51.143/globosp_cfe21c68_ff4489bfa1b9637ac83feda3180bbd6b91f4347f/playlist.m3u8
 
-#EXTINF:-1, GLOBO TESTE
-http://217.23.2.169:8081/edge/globo/playlist.m3u8
+#EXTINF:-1, GLOBO TESTE 3
+http://186.192.80.13/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1,SporTV HD 1
 https://89.248.168.167/SPORTVSD/video.m3u8
