@@ -90,8 +90,8 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 #EXTINF:-1,RecordTV | SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, GLOBO RH TESTE 1
-https://cdn.esporteone.com/GLOBOSPSD/video.m3u8
+#EXTINF:-1, GLOBO RH TESTE 2
+https://172.67.75.55/hls/s:89.248.168.110/GLOBOSPHD/video.m3u8
 
 #EXTINF:-1, GLOBO RH TESTE 3
 https://89.248.168.110/hls/s:172.67.75.55/GLOBOSPHD/video.m3u8
