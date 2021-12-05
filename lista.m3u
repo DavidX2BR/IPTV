@@ -27,11 +27,11 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963
 #EXTINF:-1 group-title="Canais GLOBO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12967
 
-###EXTINF:-1 group-title="Canais GLOBO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 1
-###https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 1
+#https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8
 
-###EXTINF:-1 group-title="Canais GLOBO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 2
-###https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 2
+#https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 1 | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13097
@@ -48,8 +48,8 @@ https://m3u9.ml/b/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=LFFbjyEqsSQui3PwJILaUg&3U1G
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13368
 
-#EXTINF:-1,Telecine FUN | HD 1
-https://89.248.168.167/TELECINEFUNSD/video.m3u8
+#EXTINF:-1,Telecine FUN | HD 1 T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13163
 
 #EXTINF:-1,Telecine FUN | HD 2
 https://89.248.168.167/TELECINEFUNHD/video.m3u8
@@ -76,7 +76,10 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13271
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13254
 
 #EXTINF:-1,Animal Planet | HD 2
-https://89.248.168.167/ANIMALPLANETHD/video.m3u8
+https://xmanga.xyz/animal-planet/2021/12/05/03/41/06-05005.ts
+
+#EXTINF:-1,Animal Planet | SD 1
+https://edge-aws.aovivotv.xyz/hls/s:23.88.118.55/animalplanet_e114c448_7cbf41ad0c9ec0c1e1bccdae8790b1cddc243a48/1638675698000.ts
 
 #EXTINF:-1,RecordTV | HD 1
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?sd=10&rebase=on
@@ -91,4 +94,3 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, GLOBO RH TESTE 1
-https://m3u9.ml/b/hls1/boborj.m3u8
