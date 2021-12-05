@@ -48,10 +48,10 @@ https://m3u9.ml/b/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=LFFbjyEqsSQui3PwJILaUg&3U1G
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13368
 
-#EXTINF:-1 group-title="TELECINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",Telecine FUN | HD 1 T
+#EXTINF:-1 group-title="TELECINE" tvg-logo="https://i.pinimg.com/originals/c3/79/80/c3798088b6df5178ff8fe3ae7b7d9ec3.jpg",Telecine FUN | HD 1 T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13163
 
-#EXTINF:-1 group-title="TELECINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",Telecine FUN | HD 2
+#EXTINF:-1 group-title="TELECINE" tvg-logo="https://i.pinimg.com/originals/c3/79/80/c3798088b6df5178ff8fe3ae7b7d9ec3.jpg",Telecine FUN | HD 2
 https://89.248.168.167/TELECINEFUNHD/video.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png",NatGeo | HD 1 T
