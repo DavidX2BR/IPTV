@@ -48,49 +48,48 @@ https://m3u9.ml/b/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=LFFbjyEqsSQui3PwJILaUg&3U1G
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13368
 
-#EXTINF:-1,Telecine FUN | HD 1 T
+#EXTINF:-1 group-title="TELECINE" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",Telecine FUN | HD 1 T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13163
 
-#EXTINF:-1,Telecine FUN | HD 2
+#EXTINF:-1 group-title="TELECINE" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",Telecine FUN | HD 2
 https://89.248.168.167/TELECINEFUNHD/video.m3u8
 
-#EXTINF:-1,NatGeo | HD 1
-https://89.248.168.167/NATGEOSD/video.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo"https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png",NatGeo | HD 1 T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13261
 
-#EXTINF:-1,NatGeo | HD 2
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo"https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png",NatGeo | HD 2
 https://89.248.168.167/NATGEOHD/video.m3u8
 
-#EXTINF:-1,RedeTV | HD 1
-https://89.248.168.167/REDETVSD/video.m3u8
+#EXTINF:-1 group-title="ABERTAS" tvg-logo"https://img2.gratispng.com/20181122/jzv/kisspng-redetv-recife-logo-tv-cultura-5bf69ffacc3170.9778257915428894668364.jpg",RedeTV | HD 1 T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13014
 
-#EXTINF:-1,RedeTV | HD 2
-https://89.248.168.167/REDETVHD/video.m3u8
+#EXTINF:-1 group-title="ABERTAS" tvg-logo"https://img2.gratispng.com/20181122/jzv/kisspng-redetv-recife-logo-tv-cultura-5bf69ffacc3170.9778257915428894668364.jpg",RedeTV | HD 2
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Discovery World | HD 1
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo"https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png",Discovery World | HD 1
 https://51.79.86.161/hls/s:49.12.213.134/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/playlist.m3u8
 
-#EXTINF:-1,Discovery World | HD T
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo"https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png",Discovery World | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13271
 
-#EXTINF:-1,Animal Planet | HD T
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo"https://mir-s3-cdn-cf.behance.net/projects/404/c242ba93851609.Y3JvcCwxNzg5LDE0MDAsMzksMA.png",Animal Planet | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13254
 
-#EXTINF:-1,Animal Planet | HD 2
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo"https://mir-s3-cdn-cf.behance.net/projects/404/c242ba93851609.Y3JvcCwxNzg5LDE0MDAsMzksMA.png",Animal Planet | HD 2
 https://xmanga.xyz/animal-planet/2021/12/05/03/41/06-05005.ts
 
-#EXTINF:-1,Animal Planet | SD 1
-https://edge-aws.aovivotv.xyz/hls/s:23.88.118.55/animalplanet_e114c448_7cbf41ad0c9ec0c1e1bccdae8790b1cddc243a48/1638675698000.ts
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo"https://mir-s3-cdn-cf.behance.net/projects/404/c242ba93851609.Y3JvcCwxNzg5LDE0MDAsMzksMA.png",Animal Planet | SD 1
+https://51.79.86.161/hls/s:23.88.118.55/animalplanet_e114c448_7cbf41ad0c9ec0c1e1bccdae8790b1cddc243a48/1638675698000.ts
 
-#EXTINF:-1,RecordTV | HD 1
+#EXTINF:-1 group-title="ABERTAS" tvg-logo"https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV | HD 1
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,RecordTV | HD 2
+#EXTINF:-1 group-title="ABERTAS" tvg-logo"https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV | HD 2
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,RecordTV | SD 3
+#EXTINF:-1 group-title="ABERTAS" tvg-logo"https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV | SD 3
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,RecordTV | SD 4
+#EXTINF:-1 group-title="ABERTAS" tvg-logo"https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV | SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, GLOBO RH TESTE 1
