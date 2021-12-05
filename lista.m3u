@@ -54,6 +54,9 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13163
 #EXTINF:-1 group-title="TELECINE" tvg-logo="https://i.pinimg.com/originals/c3/79/80/c3798088b6df5178ff8fe3ae7b7d9ec3.jpg",Telecine FUN | HD 2
 https://89.248.168.167/TELECINEFUNHD/video.m3u8
 
+#EXTINF:-1 group-title="TELECINE" tvg-logo="https://i.pinimg.com/originals/c3/79/80/c3798088b6df5178ff8fe3ae7b7d9ec3.jpg",Telecine FUN | SD 1
+https://51.79.86.161/hls/s:23.88.118.55/telecinefun_ae1e7198_4323cf57832a43c7b972043810413c711971be5c/1638677345000.ts
+
 #EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png",NatGeo | HD 1 T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13261
 
