@@ -1,45 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", Sbt SP HD 1
+#EXTINF:-1 group-title="Canais SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", Sbt SP | HD 1
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp HD 2
+#EXTINF:-1 group-title="Canais SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt SP | HD 2
 https://89.248.168.167/SBTHD/video.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp SD 3
+#EXTINF:-1 group-title="Canais SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt SP | SD 1
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_1.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" group-title="Canais SBT" tvg-name="SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt Sp SD 4
+#EXTINF:-1 group-title="Canais SBT" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt SP | SD 2
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_2.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP SD 1
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP | SD 1
 https://51.79.86.161/hls/s:157.90.249.8/globosphd_3a69aa1b_c917ba3e1ca7826ca9e12674a823096341b106e1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais GLOBO" tvg-name="GLOBO SP" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP SD 2
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo SP | SD 2
 https://51.79.86.161/hls/s:168.119.51.143/globosp_cfe21c68_ff4489bfa1b9637ac83feda3180bbd6b91f4347f/playlist.m3u8
 
-#EXTINF:-1, GLOBO TESTE RJ HD 2
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo RJ | SD 1
+https://51.79.86.161/hls/s:157.90.249.8/globorj_bc15c774_5e48b1b3119d69b698049b0d85db588bbafcb2f2/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963
 
-#EXTINF:-1, GLOBO TESTE SP
-http://163.172.147.18:8081/globo_sp_hd/2/playlist.m3u8
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP | HD T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12967
 
-#EXTINF:-1,SporTV HD 1
-https://89.248.168.167/SPORTVSD/video.m3u8
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 1
+https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8
 
-#EXTINF:-1,SporTV HD 2
-https://89.248.168.167/SPORTVHD/video.m3u8
+#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 2
+https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8
 
-#EXTINF:-1,Combate HD 1
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 1 | HD 1
+https://m3u9.ml/b/hls1/sportv1.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 2 | HD 2
+https://m3u9.ml/b/hls1/sportv2.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 3 | HD 2
+https://m3u9.ml/b/hls1/sportv3.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 4 | HD 2
+https://m3u9.ml/b/hls1/sportv4.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD 1
 https://89.248.168.167/COMBATESD/video.m3u8
 
-#EXTINF:-1,Combate HD 2
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD 2
 https://89.248.168.167/COMBATEHD/video.m3u8
 
 #EXTINF:-1,Telecine FUN HD 1
 https://89.248.168.167/TELECINEFUNSD/video.m3u8
 
-#EXTINF:-1,Telecina FUN HD 2
+#EXTINF:-1,Telecine FUN HD 2
 https://89.248.168.167/TELECINEFUNHD/video.m3u8
 
 #EXTINF:-1,NatGeo HD 1
@@ -57,11 +72,11 @@ https://89.248.168.167/REDETVHD/video.m3u8
 #EXTINF:-1,Discovery World HD 1
 https://51.79.86.161/hls/s:49.12.213.134/discoveryworld_68b79337_7c05ede8acae27c87c0e9df7e58efb117e7ae2ff/playlist.m3u8
 
-#EXTINF:-1,Discovery World HD 2
+#EXTINF:-1,Discovery World HD T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13271
 
-
-#EXTINF:-1,Animal Planet HD 1
-https://89.248.168.167/ANIMALPLANETSD/video.m3u8
+#EXTINF:-1,Animal Planet HD T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13254
 
 #EXTINF:-1,Animal Planet HD 2
 https://89.248.168.167/ANIMALPLANETHD/video.m3u8
@@ -77,10 +92,4 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 
 #EXTINF:-1,RecordTV SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Globo RJ SD 1
-
-
-#EXTINF:-1,Globo RJ SD 2
-https://51.79.86.161/hls/s:157.90.249.8/globorj_bc15c774_5e48b1b3119d69b698049b0d85db588bbafcb2f2/playlist.m3u8
 
