@@ -27,29 +27,26 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963
 #EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP | HD T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12967
 
-#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 1
-https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8
+###EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 1
+###https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_1573/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 2
-https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8
+###EXTINF:-1 group-title="Canais GLOBO" tvg-logo"https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO HD | ON 2
+###https://live-01.edge-claro-bel-pa.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 1 | HD 1
-https://m3u9.ml/b/hls1/sportv1.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 1 | HD T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13097
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 2 | HD 2
-https://m3u9.ml/b/hls1/sportv2.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 2 | HD T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13100
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 3 | HD 2
-https://m3u9.ml/b/hls1/sportv3.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 4 | HD 2
-https://m3u9.ml/b/hls1/sportv4.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg",SporTV 3 | HD T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13103
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo"https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD 1
-https://89.248.168.167/COMBATESD/video.m3u8
+https://m3u9.ml/b/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=LFFbjyEqsSQui3PwJILaUg&3U1G7qaTxrPbalZnEx=1638700076
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo"https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD 2
-https://89.248.168.167/COMBATEHD/video.m3u8
+###EXTINF:-1 group-title="ESPORTES" tvg-logo"https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD 2
+###https://89.248.168.167/COMBATEHD/video.m3u8
 
 #EXTINF:-1,Telecine FUN HD 1
 https://89.248.168.167/TELECINEFUNSD/video.m3u8
@@ -92,4 +89,3 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 
 #EXTINF:-1,RecordTV SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
-
