@@ -4,7 +4,7 @@
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 
 #EXTINF:-1 group-title="Canais SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt SP | HD 2
-https://89.248.168.167/SBTHD/video.m3u8
+https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_4.m3u8
 
 #EXTINF:-1 group-title="Canais SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",Sbt SP | SD 1
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_1.m3u8
@@ -45,8 +45,8 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13103
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD 1
 https://m3u9.ml/b/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=LFFbjyEqsSQui3PwJILaUg&3U1G7qaTxrPbalZnEx=1638700076
 
-###EXTINF:-1 group-title="ESPORTES" tvg-logo="https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD 2
-###https://89.248.168.167/COMBATEHD/video.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://uploaddeimagens.com.br/images/002/242/217/original/COMBATE.png",Combate | HD T
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13368
 
 #EXTINF:-1,Telecine FUN | HD 1
 https://89.248.168.167/TELECINEFUNSD/video.m3u8
@@ -89,3 +89,9 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 
 #EXTINF:-1,RecordTV | SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, GLOBO RH TESTE 1
+https://cdn.esporteone.com/GLOBORJHD/video.m3u8?md5=B4OzSBxP3CYucw7jImNIwg&expires=1638676307
+
+#EXTINF:-1, GLOBO RH TESTE 2
+https://cdn.esporteone.com/GLOBORJHD/video.m3u8
