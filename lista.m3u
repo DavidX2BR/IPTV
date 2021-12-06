@@ -96,11 +96,11 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&reb
 #EXTINF:-1 group-title="ABERTAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV | SD 4
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="FILMES" ,StarChannel | HD T
+#EXTINF:-1 group-title="FILMES" ,StarChannel | HD 1 T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13121
 
-#EXTINF:-1 group-title="FILMES" ,StarChannel | HD 2 T
+#EXTINF:-1 group-title="FILMES" ,StarChannel | SD 1 T
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13120
 
-#EXTINF:-1 group-title="FILMES" ,StarChannel | HD 3 T
+#EXTINF:-1 group-title="FILMES" ,StarChannel | HD 2 T
 http://show.servidor.tv:8080/Moises10/Moises10/1473
